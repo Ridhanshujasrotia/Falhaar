@@ -1,0 +1,462 @@
+[
+    {
+        "ItemType": "Fruit",
+        "ItemName": "Watermelon",
+        "Price": 43.46,
+        "Address": {
+            "Street": "H.No. 006, Mammen",
+            "City": "Raipur",
+            "PostalCode": "500787"
+        }
+    },
+    {
+        "ItemType": "Vegetable",
+        "ItemName": "Cabbage",
+        "Price": 44.03,
+        "Address": {
+            "Street": "H.No. 006, Mammen",
+            "City": "Raipur",
+            "PostalCode": "500787"
+        }
+    },
+    {
+        "ItemType": "Vegetable",
+        "ItemName": "Eggplant",
+        "Price": 20.87,
+        "Address": {
+            "Street": "64/56, Walia Chowk",
+            "City": "Raichur",
+            "PostalCode": "088543"
+        }
+    },
+    {
+        "ItemType": "Fruit",
+        "ItemName": "Grapes",
+        "Price": 12.65,
+        "Address": {
+            "Street": "54, Talwar Nagar",
+            "City": "Mangalore",
+            "PostalCode": "378169"
+        }
+    },
+    {
+        "ItemType": "Fruit",
+        "ItemName": "Peach",
+        "Price": 28.6,
+        "Address": {
+            "Street": "H.No. 43, Ranganathan Street",
+            "City": "Raiganj",
+            "PostalCode": "657659"
+        }
+    },
+    {
+        "ItemType": "Fruit",
+        "ItemName": "Mango",
+        "Price": 16.94,
+        "Address": {
+            "Street": "759, Sinha Nagar",
+            "City": "Danapur",
+            "PostalCode": "886957"
+        }
+    },
+    {
+        "ItemType": "Fruit",
+        "ItemName": "Orange",
+        "Price": 30.3,
+        "Address": {
+            "Street": "H.No. 70, Kade Street",
+            "City": "Bhalswa Jahangir Pur",
+            "PostalCode": "504975"
+        }
+    },
+    {
+        "ItemType": "Vegetable",
+        "ItemName": "Bell Pepper",
+        "Price": 41.81,
+        "Address": {
+            "Street": "H.No. 00, Setty Zila",
+            "City": "Jodhpur",
+            "PostalCode": "574942"
+        }
+    },
+    {
+        "ItemType": "Fruit",
+        "ItemName": "Peach",
+        "Price": 16.16,
+        "Address": {
+            "Street": "503, Dar Street",
+            "City": "Alappuzha",
+            "PostalCode": "208887"
+        }
+    },
+    {
+        "ItemType": "Fruit",
+        "ItemName": "Watermelon",
+        "Price": 30.49,
+        "Address": {
+            "Street": "334, Chaudhari",
+            "City": "Rewa",
+            "PostalCode": "165599"
+        }
+    },
+    {
+        "ItemType": "Fruit",
+        "ItemName": "Watermelon",
+        "Price": 30.27,
+        "Address": {
+            "Street": "72, Rattan Circle",
+            "City": "Bikaner",
+            "PostalCode": "408200"
+        }
+    },
+    {
+        "ItemType": "Fruit",
+        "ItemName": "Grapes",
+        "Price": 47.55,
+        "Address": {
+            "Street": "H.No. 423, Suresh Chowk",
+            "City": "Thoothukudi",
+            "PostalCode": "970224"
+        }
+    },
+    {
+        "ItemType": "Fruit",
+        "ItemName": "Watermelon",
+        "Price": 46.5,
+        "Address": {
+            "Street": "648, Balay",
+            "City": "Solapur",
+            "PostalCode": "424457"
+        }
+    },
+    {
+        "ItemType": "Vegetable",
+        "ItemName": "Eggplant",
+        "Price": 29.72,
+        "Address": {
+            "Street": "H.No. 90, Sidhu Marg",
+            "City": "Bareilly",
+            "PostalCode": "026033"
+        }
+    },
+    {
+        "ItemType": "Vegetable",
+        "ItemName": "Bell Pepper",
+        "Price": 34.67,
+        "Address": {
+            "Street": "17/158, Bhatia Ganj",
+            "City": "Motihari",
+            "PostalCode": "309835"
+        }
+    },
+    {
+        "ItemType": "Vegetable",
+        "ItemName": "Bell Pepper",
+        "Price": 15.28,
+        "Address": {
+            "Street": "H.No. 14, Thaker Zila",
+            "City": "Srinagar",
+            "PostalCode": "834078"
+        }
+    },
+    {
+        "ItemType": "Vegetable",
+        "ItemName": "Cabbage",
+        "Price": 44.03,
+        "Address": {
+            "Street": "95/550, Dora Road",
+            "City": "Deoghar",
+            "PostalCode": "141966"
+        }
+    },
+    {
+        "ItemType": "Vegetable",
+        "ItemName": "Tomato",
+        "Price": 23.17,
+        "Address": {
+            "Street": "H.No. 409, Thaker Street",
+            "City": "Farrukhabad",
+            "PostalCode": "242589"
+        }
+    },
+    {
+        "ItemType": "Vegetable",
+        "ItemName": "Eggplant",
+        "Price": 15.35,
+        "Address": {
+            "Street": "936, Iyer Road",
+            "City": "Muzaffarnagar",
+            "PostalCode": "622377"
+        }
+    },
+    {
+        "ItemType": "Vegetable",
+        "ItemName": "Carrot",
+        "Price": 40.05,
+        "Address": {
+            "Street": "48/93, Varkey Chowk",
+            "City": "Suryapet",
+            "PostalCode": "474162"
+        }
+    },
+    {
+        "ItemType": "Fruit",
+        "ItemName": "Grapes",
+        "Price": 10.86,
+        "Address": {
+            "Street": "52, Wadhwa Chowk",
+            "City": "Panipat",
+            "PostalCode": "707940"
+        }
+    },
+    {
+        "ItemType": "Vegetable",
+        "ItemName": "Bell Pepper",
+        "Price": 22.23,
+        "Address": {
+            "Street": "H.No. 696, Virk Ganj",
+            "City": "Chinsurah",
+            "PostalCode": "507326"
+        }
+    },
+    {
+        "ItemType": "Vegetable",
+        "ItemName": "Carrot",
+        "Price": 45.07,
+        "Address": {
+            "Street": "27/723, Tak Chowk",
+            "City": "Bally",
+            "PostalCode": "918900"
+        }
+    },
+    {
+        "ItemType": "Fruit",
+        "ItemName": "Banana",
+        "Price": 40.83,
+        "Address": {
+            "Street": "H.No. 98, Shere Street",
+            "City": "Guntakal",
+            "PostalCode": "766905"
+        }
+    },
+    {
+        "ItemType": "Fruit",
+        "ItemName": "Apple",
+        "Price": 26.78,
+        "Address": {
+            "Street": "43, Zachariah Marg",
+            "City": "Gopalpur",
+            "PostalCode": "080019"
+        }
+    },
+    {
+        "ItemType": "Fruit",
+        "ItemName": "Banana",
+        "Price": 43.62,
+        "Address": {
+            "Street": "H.No. 740, Bajwa Marg",
+            "City": "Jaunpur",
+            "PostalCode": "557315"
+        }
+    },
+    {
+        "ItemType": "Fruit",
+        "ItemName": "Watermelon",
+        "Price": 13.34,
+        "Address": {
+            "Street": "48/70, Bansal Street",
+            "City": "Aligarh",
+            "PostalCode": "440947"
+        }
+    },
+    {
+        "ItemType": "Fruit",
+        "ItemName": "Pineapple",
+        "Price": 21.35,
+        "Address": {
+            "Street": "H.No. 39, Sarin Chowk",
+            "City": "Nandyal",
+            "PostalCode": "279693"
+        }
+    },
+    {
+        "ItemType": "Fruit",
+        "ItemName": "Orange",
+        "Price": 37.7,
+        "Address": {
+            "Street": "068, Karpe Street",
+            "City": "Chennai",
+            "PostalCode": "547661"
+        }
+    },
+    {
+        "ItemType": "Vegetable",
+        "ItemName": "Spinach",
+        "Price": 33.5,
+        "Address": {
+            "Street": "897, Dayal Marg",
+            "City": "Nangloi Jat",
+            "PostalCode": "209005"
+        }
+    },
+    {
+        "ItemType": "Vegetable",
+        "ItemName": "Eggplant",
+        "Price": 31.27,
+        "Address": {
+            "Street": "00, Basak Circle",
+            "City": "Tiruchirappalli",
+            "PostalCode": "803569"
+        }
+    },
+    {
+        "ItemType": "Vegetable",
+        "ItemName": "Cucumber",
+        "Price": 44.12,
+        "Address": {
+            "Street": "47, Chatterjee Chowk",
+            "City": "Dehri",
+            "PostalCode": "866516"
+        }
+    },
+    {
+        "ItemType": "Vegetable",
+        "ItemName": "Carrot",
+        "Price": 29.83,
+        "Address": {
+            "Street": "84, Barad Ganj",
+            "City": "Khora",
+            "PostalCode": "363241"
+        }
+    },
+    {
+        "ItemType": "Fruit",
+        "ItemName": "Grapes",
+        "Price": 24.68,
+        "Address": {
+            "Street": "389, Mand Circle",
+            "City": "Bhagalpur",
+            "PostalCode": "393269"
+        }
+    },
+    {
+        "ItemType": "Fruit",
+        "ItemName": "Apple",
+        "Price": 11.13,
+        "Address": {
+            "Street": "063, Madan Road",
+            "City": "Karaikudi",
+            "PostalCode": "894031"
+        }
+    },
+    {
+        "ItemType": "Fruit",
+        "ItemName": "Banana",
+        "Price": 43.57,
+        "Address": {
+            "Street": "H.No. 271, Bava Chowk",
+            "City": "Sri Ganganagar",
+            "PostalCode": "577395"
+        }
+    },
+    {
+        "ItemType": "Vegetable",
+        "ItemName": "Cabbage",
+        "Price": 14.59,
+        "Address": {
+            "Street": "815, Thakur Street",
+            "City": "Begusarai",
+            "PostalCode": "266959"
+        }
+    },
+    {
+        "ItemType": "Fruit",
+        "ItemName": "Mango",
+        "Price": 47.49,
+        "Address": {
+            "Street": "H.No. 337, Venkataraman Ganj",
+            "City": "Parbhani",
+            "PostalCode": "984300"
+        }
+    },
+    {
+        "ItemType": "Vegetable",
+        "ItemName": "Cucumber",
+        "Price": 25.01,
+        "Address": {
+            "Street": "H.No. 74, Chanda Ganj",
+            "City": "Srikakulam",
+            "PostalCode": "226247"
+        }
+    },
+    {
+        "ItemType": "Fruit",
+        "ItemName": "Mango",
+        "Price": 31.05,
+        "Address": {
+            "Street": "64, Edwin Street",
+            "City": "Visakhapatnam",
+            "PostalCode": "779047"
+        }
+    },
+    {
+        "ItemType": "Vegetable",
+        "ItemName": "Eggplant",
+        "Price": 26.42,
+        "Address": {
+            "Street": "76, Tripathi Ganj",
+            "City": "Thane",
+            "PostalCode": "736850"
+        }
+    },
+    {
+        "ItemType": "Vegetable",
+        "ItemName": "Eggplant",
+        "Price": 45.24,
+        "Address": {
+            "Street": "13, Lanka Path",
+            "City": "Saharsa",
+            "PostalCode": "225845"
+        }
+    },
+    {
+        "ItemType": "Vegetable",
+        "ItemName": "Cabbage",
+        "Price": 13.21,
+        "Address": {
+            "Street": "H.No. 785, Bawa",
+            "City": "Bareilly",
+            "PostalCode": "723538"
+        }
+    },
+    {
+        "ItemType": "Fruit",
+        "ItemName": "Peach",
+        "Price": 35.35,
+        "Address": {
+            "Street": "H.No. 368, Ratta Marg",
+            "City": "Thiruvananthapuram",
+            "PostalCode": "174693"
+        }
+    },
+    {
+        "ItemType": "Vegetable",
+        "ItemName": "Carrot",
+        "Price": 25.78,
+        "Address": {
+            "Street": "511, Ganguly Ganj",
+            "City": "Panihati",
+            "PostalCode": "490511"
+        }
+    },
+    {
+        "ItemType": "Fruit",
+        "ItemName": "Strawberry",
+        "Price": 47.53,
+        "Address": {
+            "Street": "22, Lata Chowk",
+            "City": "Shimoga",
+            "PostalCode": "740339"
+        }
+    }
+]
