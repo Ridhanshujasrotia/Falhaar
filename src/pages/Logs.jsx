@@ -5,6 +5,9 @@ import { useParams } from "react-router-dom";
 import { Loading3 } from "../components/Loading";
 import { Link } from "react-router-dom";
 
+// Update the API base URL to your PythonAnywhere domain
+const flaskAPIURL = "https://akshitfalahaar.pythonanywhere.com";
+
 const Logs = () => {
   const { pId } = useParams();
   const [users, setUsers] = useState([]);
@@ -36,7 +39,7 @@ const Logs = () => {
       const user = filteredUsers[0];
 
       // Make API request to Flask backend
-      fetch(`http://localhost:5000/Logs/${user.ID}/${user.Name}`) // Change URL if needed
+      fetch(`${flaskAPIURL}/Logs/${user.ID}/${user.Name}`)
         .then((response) => response.json())
         .then((data) => {
           setPredictedPrice(data.predicted_price);
