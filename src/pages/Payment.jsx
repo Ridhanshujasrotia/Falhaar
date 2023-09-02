@@ -76,7 +76,7 @@ const Payment = () => {
 
   const handleSubmit = async (e) => {
     e.preventDefault();
-    const response = await fetch("http://localhost:6060/demo", {
+    const response = await fetch("https://falahaarBackend/demo", {
       method: "POST",
       body: JSON.stringify(form),
       headers: {

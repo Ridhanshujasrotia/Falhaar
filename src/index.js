@@ -3,7 +3,9 @@ import ReactDOM from "react-dom/client";
 import App from "./App";
 import { CartProvider } from "./pages/Cart_Context";
 import { Auth0Provider } from "@auth0/auth0-react";
+import { disableReactDevTools } from "@fvilers/disable-react-devtools";
 
+if (process.env.NODE_ENV === "production") disableReactDevTools();
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <Auth0Provider

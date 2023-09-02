@@ -12,7 +12,7 @@ const Shop = () => {
 
   const getUsers = async () => {
     try {
-      const response = await fetch("http://localhost:6060/demo3", {
+      const response = await fetch("https://falahaarBackend/demo3", {
         method: "GET",
       });
       const data = await response.json();

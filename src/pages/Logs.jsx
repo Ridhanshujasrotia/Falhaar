@@ -18,7 +18,7 @@ const Logs = () => {
   useEffect(() => {
     const getUsers = async () => {
       try {
-        const response = await fetch("http://localhost:6060/demo3");
+        const response = await fetch("https://falahaarBackend/demo3");
         const data = await response.json();
         setUsers(data);
       } catch (error) {
