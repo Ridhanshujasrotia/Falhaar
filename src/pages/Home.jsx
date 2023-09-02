@@ -8,9 +8,12 @@ const Home = () => {
   const [users1, setUsers1] = useState([]);
   const getUsers = async () => {
     try {
-      const response = await fetch("https://falahaarBackend/vegetable", {
-        method: "GET",
-      });
+      const response = await fetch(
+        "https://falahaarbackend.onrender.com/vegetable",
+        {
+          method: "GET",
+        }
+      );
       const data = await response.json();
       setUsers(data);
     } catch (error) {
@@ -23,7 +26,7 @@ const Home = () => {
   }, []);
 
   const getUsers1 = async () => {
-    const response = await fetch("https://falahaarBackend/fruit", {
+    const response = await fetch("https://falahaarbackend.onrender.com/fruit", {
       method: "GET",
     });
     const data = await response.json();

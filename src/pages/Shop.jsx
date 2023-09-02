@@ -12,9 +12,12 @@ const Shop = () => {
 
   const getUsers = async () => {
     try {
-      const response = await fetch("https://falahaarBackend/demo3", {
-        method: "GET",
-      });
+      const response = await fetch(
+        "https://falahaarbackend.onrender.com/demo3",
+        {
+          method: "GET",
+        }
+      );
       const data = await response.json();
       setUsers(data);
     } catch (error) {
